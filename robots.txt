@@ -1,0 +1,4 @@
+Sitemap: https://radhill7k.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: radhill7k.github.io
