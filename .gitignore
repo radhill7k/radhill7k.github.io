@@ -1,0 +1,6 @@
+*.pyc
+.DS_Store
+.doit.db
+cache/
+output/
+__pycache__
